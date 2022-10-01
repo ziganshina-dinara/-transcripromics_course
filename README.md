@@ -1,2 +1,2 @@
-# -transcripromics_course
-Homework on the Transcripromics Data Analysis course at Moscow State University
+# Курс «Анализ транскриптомных данных»
+Прохожу курс «Анализ транскриптомных данных» свободным слушателем. В данном репозитории будут выкладывать домашние задания.
